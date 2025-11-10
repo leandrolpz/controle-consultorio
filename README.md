@@ -1,8 +1,8 @@
-# 🏥 Sistema de Gestão Médica
+# Sistema de Gestão Médica
 
 Sistema completo para gerenciamento de consultórios médicos desenvolvido com React e Node.js.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - ✅ Gestão de Consultas
 - ✅ Cadastro de Pacientes
@@ -10,12 +10,12 @@ Sistema completo para gerenciamento de consultórios médicos desenvolvido com R
 - ✅ Controle de Atendentes
 - ✅ Interface moderna e responsiva
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Frontend:** React, Bootstrap, Axios
 **Backend:** Node.js, Express, Sequelize, MySQL
 
-## 📦 Instalação
+##  Instalação
 
 ```bash
 # Backend
