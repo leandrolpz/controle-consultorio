@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+.status {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.status.agendada {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.status.realizada {
+  background-color: #d1edff;
+  color: #0c5460;
+}
+
+.status.cancelada {
+  background-color: #f8d7da;
+  color: #721c24;
+}
