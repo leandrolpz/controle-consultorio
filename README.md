@@ -2,6 +2,10 @@
 
 Sistema completo para gerenciamento de consultórios médicos desenvolvido com React e Node.js.
 
+Aplicação realizada para atividade da materia DSWEB III ( Desenvolvimento Web 3)
+Fatec - Cotia
+
+
 ##  Funcionalidades
 
 - ✅ Gestão de Consultas
